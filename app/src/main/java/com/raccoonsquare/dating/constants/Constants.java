@@ -23,7 +23,7 @@ public interface Constants {
 
     int VIDEO_FILE_MAX_SIZE = 7340035; //Max size for video file in bytes | For example 5mb = 5*1024*1024
 
-    String WEB_SITE = "https://datingnet.me/";  //web site url address
+    String WEB_SITE = "http://www.net.pe.hu/";  //web site url address
 
     String APP_TEMP_FOLDER = "chat"; //directory for temporary storage of images from the camera
 
@@ -35,7 +35,7 @@ public interface Constants {
 
     String CLIENT_ID = "1";  // old 11; Correct example: 12567 | Incorrect example: 0987
 
-    String API_DOMAIN = "https://datingnet.me/";  //url address to which the application sends requests
+    String API_DOMAIN = "http://www.net.pe.hu/";  //url address to which the application sends requests
 
     String API_FILE_EXTENSION = "";                 // Don`t change value for this constant!
     String API_VERSION = "v2";                      // Don`t change value for this constant!
